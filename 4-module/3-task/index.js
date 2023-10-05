@@ -1,4 +1,3 @@
-const table = document.querySelector(".js-teachers");
 function highlight(table) {
     
     for (let tr of table.children[1].rows) {
@@ -35,5 +34,5 @@ function highlight(table) {
 }
 
 
-highlight(table)
+
 

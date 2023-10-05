@@ -5,4 +5,4 @@ const hideSelf = () => {
   });
 }
 
-hideSelf()
+
